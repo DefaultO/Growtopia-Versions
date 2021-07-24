@@ -1,5 +1,5 @@
 # Growtopia Versions
-Repository containing Setups and the Game Executables for older and up-to-date Growtopia Versions. This is the biggest unofficial collection of official Growtopia.exe's and GrowtopiaInstallers.exe's!
+Repository containing Setups and the Game Executables for older and up-to-date Growtopia Versions. This is the biggest unofficial collection of official Growtopia.exe's and GrowtopiaInstallers.exe's! The Downloads to them can be found [**HERE**](https://github.com/DefaultO/Growtopia-Versions/releases) under releases.
 
 Thanks to [**@TheLeftExit**](https://github.com/TheLeftExit) we got over **two Gigabytes** of signed untampered official Installers and thus the interesting Growtopia Game Executables for most versions ranging from V1.44 to V3.66 archived for everyone to access for whatever their reasoning is. The here-listed Executables can be used to follow the changes made from version to version.
 
