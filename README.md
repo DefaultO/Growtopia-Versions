@@ -7,6 +7,6 @@ This sniping of those files was also interesting to follow because the 1.XX Game
 
 I use them to document mistakes done by the Developers and possibly one day explain the Dupes in code that existed throughout the years from 2013 till now. Another benefit of having access to any Version you'd need today is that you can find stuff in the new version that you found in the old version. Extra applications could be to auto-fetch the hashes and compare "patched" Growtopia.exe's with the official ones. So you can find tampering more easier and determine if there is malicious code added. Useful when you don't trust "patched" versions online. This is easy to understand after all these hypes around stealing Accounts to profit in-game.
 
-Spoofing, to be able to play on the newest version on an older game version can be done up to the last version that has the same enet version.
+Spoofing, to be able to play on the newest version on an older game version can be done up to the last version that has the same enet version. I don't recommend it though as the server might expect an answer to new packets it sends. The client would ignore them as it got no instructions on how to react to them.
 
 I strive for a community that doesn't abuse its users.
